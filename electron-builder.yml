@@ -1,0 +1,9 @@
+appId: com.dep.visualizer
+productName: DependencyVisualizer
+files:
+  - dist/**
+  - dist-electron/**
+asar: true
+win:
+  target:
+    - nsis
