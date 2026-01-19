@@ -29,11 +29,6 @@ Perfect for developers, team leads, or anyone needing a quick audit before upgra
 
 ---
 
-##  Demo UI
-
-> _(Add screenshot here if needed)_
-
----
 
 ##  Tech Stack
 
